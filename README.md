@@ -7,4 +7,4 @@ argus.c -> Cliente
 argusd.c -> Servidor
 
 
-Nota: 15.5/20
+Nota: 15/20
