@@ -1,4 +1,4 @@
-# SO_project
+# SO
 
 Sistema de Controlo e Monitorização de projetos.
 
